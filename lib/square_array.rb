@@ -1,4 +1,3 @@
-
 def square_array(numbers)
   counter = 0
   number1 = 0
