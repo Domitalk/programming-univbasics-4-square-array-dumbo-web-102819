@@ -5,7 +5,7 @@ def square_array(numbers)
     new_numbers.push(numbers[counter] * numbers[couunter])
     counter += 1
   end
-  new_numbers
+  return new_numbers
 
   # Solution 1
   # counter = 0
